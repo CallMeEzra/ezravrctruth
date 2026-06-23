@@ -31,7 +31,7 @@ Sprich für 2 Runden mit britischem Akzent! Wenn du bereits Brite bist, sprich s
 JOKER! <rem_player> muss <rem_player> eine Herausvorderung stellen! Wenn ihm/ihr keine Herausvorderung einfällt, muss <player> eine Herausvorderung für <rem_player> festlegen!
 <player> muss der Person zur Rechten einen runterholen, sofern beide zustimmen! Wenn ihr das nicht wollt, nimmt <player> eine Herausvorderung von <rem_player> an!
 <player> darf für 3 Runden das Haustier von <rem_player> sein! Wenn einer von euch nicht zustimmt, nim eine Herausvorderung von <rem_player> an!
-<Spieler> muss 3 Minuten lang Fappen! Wenn du kommst, musst du eine Herausvorderung der Gruppe annehmen; wenn du das nicht willst: dreh noch einmal!
+<player> muss 3 Minuten lang Fappen! Wenn du kommst, musst du eine Herausvorderung der Gruppe annehmen; wenn du das nicht willst: dreh noch einmal!
 <player> muss den Namen von <rem_player> stöhnen! Wenn nicht, noch einmal drehen!
 <player> muss eine Herausvorderung von <rem_player> annehmen!
 <player> muss seine/ihre Lieblings-Sexstellung vorführen! Bei Unmöglichkeit: Nimm eine Herausvorderung von der Person zu deiner Linken an!
